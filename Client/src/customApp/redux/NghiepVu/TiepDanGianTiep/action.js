@@ -1,0 +1,19 @@
+const actions = {
+    GETDATATIEPDANTRUCTIEP_INIT: "GETDATATIEPDANTRUCTIEP_INIT",
+    GETDATATIEPDANTRUCTIEP_INIT_SUCCESS: "GETDATATIEPDANTRUCTIEP_INIT_SUCCESS",
+    GETDATATIEPDANTRUCTIEP_INIT_ERROR: "GETDATATIEPDANTRUCTIEP_INIT_ERROR",
+    SETDONTHUID: "SETDONTHUID",
+    SETDONTHUID_SUCCESS: "SETDONTHUID_SUCCESS",
+    SETDONTHUID_ERROR: "SETDONTHUID_ERROR",
+
+    getData: (filterData) => ({
+        type: actions.GETDATATIEPDANTRUCTIEP_INIT,
+        payload: { filterData },
+    }),
+    setDonThuID: (payload) => ({
+        type: actions.SETDONTHUID,
+        payload: payload,
+    }),
+};
+
+export default actions;

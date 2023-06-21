@@ -1,0 +1,411 @@
+                                    <!-- <div className="progress-item">
+                                        <div className="progress-circle-title" direction="vertical">
+                                            {/* {index + 1} */}
+                                            <Steps
+                                                // current={current}
+                                                onChange={onChange1}
+                                                direction="vertical"
+                                                items={[
+                                                    {
+                                                        title: 'Chuyên viên tiếp nhận',
+
+                                                    },
+                                                    {
+                                                        title: 'Lãnh đạo duyệt xử lý',
+                                                    },
+                                                    {
+                                                        title: 'Lãnh đạo phân giải quyết',
+                                                    },
+                                                    {
+                                                        title: 'Lãnh đạo cơ quan cấp dưỡi phân giải quyết',
+
+                                                    },
+                                                    {
+                                                        title: 'Phó nhánh thanh tra hoặc lãnh đạo phòng phân giải quyết',
+                                                    },
+                                                    {
+                                                        title: 'Trưởng đoàn giải quyết',
+                                                    },
+                                                    {
+                                                        title: 'Phó chánh thanh tra hoặc lãnh đạo phòng duyệt giải quyết',
+
+                                                    },
+                                                    {
+                                                        title: 'Lãnh đạo cấp dưới duyệt giải quyết',
+                                                    },
+                                                    {
+                                                        title: 'Lãnh đạo duyệt giải quyết',
+                                                    },
+                                                ]}
+                                            />
+                                        </div>
+                                        {/* <div className="progress-title">
+                                            {item?.Ten}
+                                        </div> */}
+                                        <div className="progress-time">
+                                            {/* {item?.ThoiGianThucHien} */}
+                                            <Space direction="vertical">
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                                <Space.Compact direction="vertical">
+                                                    <p>Thoi gian thuc hien </p>
+                                                    <DatePicker style={{ width: '100%' }} />
+                                                </Space.Compact>
+                                            </Space>
+                                        </div>
+                                        <div className="progress-user__update">
+                                            {/* {item?.NguoiCapNhat} */}
+                                        </div>
+                                        <div className="progress-action">
+                                            {/* {item?.ThaoTac} */}
+                                        </div>
+                                        <div className="progress-opinion">
+                                            {/* {item?.YKienCanBoThucHien} */}
+                                        </div>
+                                    </div>
+                                    {/* })} */} -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+                                    <Panel header="Tiến trình xử lý" key="5">
+
+                                        <div className="wrapper-progress">
+                                            {/* {data && data.TienTrinhXuLy.map((item, index) => { */}
+                                            <Row gutter={16}>
+                                                <Col span={1}>
+                                                    {/* <div className="progress-circle-title" direction="vertical">
+                                                        {index + 1}
+                                                        <Steps
+                                                            current={current}
+                                                            onChange={onChange1}
+                                                            direction="vertical"
+                                                            items={[
+                                                                {
+                                                                    title: 'Chuyên viên tiếp nhận',
+            
+                                                                },
+                                                                {
+                                                                    title: 'Lãnh đạo duyệt xử lý',
+                                                                },
+                                                                {
+                                                                    title: 'Lãnh đạo phân giải quyết',
+                                                                },
+                                                                {
+                                                                    title: 'Lãnh đạo cơ quan cấp dưỡi phân giải quyết',
+            
+                                                                },
+                                                                {
+                                                                    title: 'Phó nhánh thanh tra hoặc lãnh đạo phòng phân giải quyết',
+                                                                },
+                                                                {
+                                                                    title: 'Trưởng đoàn giải quyết',
+                                                                },
+                                                                {
+                                                                    title: 'Phó chánh thanh tra hoặc lãnh đạo phòng duyệt giải quyết',
+            
+                                                                },
+                                                                {
+                                                                    title: 'Lãnh đạo cấp dưới duyệt giải quyết',
+                                                                },
+                                                                {
+                                                                    title: 'Lãnh đạo duyệt giải quyết',
+                                                                },
+                                                            ]}
+                                                        />
+                                                    </div> */}
+                                                    <div className="progress-circle" >
+                                                        <Avatar size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            1
+                                                        </Avatar>
+                                                    </div>
+                                                    <div className="progress-circle" >
+                                                        <Avatar  size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            2
+                                                        </Avatar>
+                                                    </div>
+                                                    <div className="progress-circle" >
+                                                        <Avatar size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            3
+                                                        </Avatar>
+                                                    </div>
+                                                    <div className="progress-circle" >
+                                                        <Avatar size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            4
+                                                        </Avatar>
+                                                    </div>
+                                                    <div className="progress-circle" >
+                                                        <Avatar size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            5
+                                                        </Avatar>
+                                                    </div>
+                                                    <div className="progress-circle" >
+                                                        <Avatar size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            6
+                                                        </Avatar>
+                                                    </div>
+                                                    <div className="progress-circle" >
+                                                        <Avatar size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            7
+                                                        </Avatar>
+                                                    </div>
+                                                    <div className="progress-circle" >
+                                                        <Avatar size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            8
+                                                        </Avatar>
+                                                    </div>
+                                                     <div className="progress-circle" >
+                                                        <Avatar size={40}
+                                                            style={{backgroundColor: '#177bea',color: 'white'}}>
+                                                            9
+                                                        </Avatar>
+                                                    </div>
+                                                </Col>
+                                                <Col span={3}>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhận</p>
+                                                    </div>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhận</p>
+                                                    </div>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhận</p>
+                                                    </div>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhậnChuyên viên tiếp nhậnChuyên viên tiếp nhận</p>
+                                                    </div>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhậnChuyên viên tiếp nhận</p>
+                                                    </div>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhậnChuyên viên tiếp nhậnChuyên viên tiếp nhận</p>
+                                                    </div>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhận</p>
+                                                    </div>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhận</p>
+                                                    </div>
+                                                    <div className="progress-title">
+                                                        <p>Chuyên viên tiếp nhận</p>
+                                                    </div>
+                                                </Col>
+                                                <Col span={3}>
+                                                    <div className="progress-time" >
+                                                        {/* {item?.ThoiGianThucHien} */}
+            
+                                                        <p>Thời gian thực hiện </p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-time">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-time">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-time">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-time">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-time">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-time">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-time">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-time">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+            
+            
+                                                </Col>
+                                                <Col span={5} >
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-user__update">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                </Col>
+                                                <Col span={6}>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                    <div className="progress-action">
+                                                        <p>Thời gian thực hiện</p>
+                                                        <p style={{ background: '#ff9800', color: 'white', borderRadius: '5px' }}>12/02/2001</p>
+                                                    </div>
+                                                </Col>
+                                                <Col span={6}>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                    <div className="progress-opinion">
+                                                        <p>Nguoi cap nhap2</p>
+                                                        <p style={{ background: '#177bea', color: 'white', borderRadius: '5px' }}>Vũ Thị An(Ban tiếp công dân tỉnh )</p>
+                                                    </div>
+                                                </Col>
+            
+                                            </Row>
+            
+                                        </div>
+            
+                                    </Panel> -->
