@@ -1,0 +1,17 @@
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\bin\Release\netcoreapp3.0\Com.Gosol.CC.Security.deps.json
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\bin\Release\netcoreapp3.0\Com.Gosol.CC.Security.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\bin\Release\netcoreapp3.0\Com.Gosol.CC.Security.pdb
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.csprojAssemblyReference.cache
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.AssemblyInfoInputs.cache
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.AssemblyInfo.cs
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\bin\Release\netcoreapp3.0\Com.Gosol.CC.Security.deps.json
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\bin\Release\netcoreapp3.0\Com.Gosol.CC.Security.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\bin\Release\netcoreapp3.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.csprojAssemblyReference.cache
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.AssemblyInfoInputs.cache
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.AssemblyInfo.cs
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.csproj.CoreCompileInputs.cache
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Security\obj\Release\netcoreapp3.0\Com.Gosol.CC.Security.pdb

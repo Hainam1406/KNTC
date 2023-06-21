@@ -1,0 +1,78 @@
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.deps.json
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csprojAssemblyReference.cache
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfoInputs.cache
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfo.cs
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.CopyComplete
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\KeKhaiTaiSan\Server\Com.Gosol.KKTS_V2\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.deps.json
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csprojAssemblyReference.cache
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfoInputs.cache
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfo.cs
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.CopyComplete
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+C:\Users\SON-PC\Desktop\Khac\SVN\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.deps.json
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.pdb
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.pdb
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csprojAssemblyReference.cache
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfoInputs.cache
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfo.cs
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.CopyComplete
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.deps.json
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfoInputs.cache
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfo.cs
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.CoreCompileInputs.cache
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.CopyComplete
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.AssemblyReference.cache
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.deps.json
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\bin\Debug\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.AssemblyReference.cache
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfoInputs.cache
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.AssemblyInfo.cs
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.CoreCompileInputs.cache
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.csproj.CopyComplete
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.DAL\obj\Debug\netcoreapp3.0\Com.Gosol.CC.DAL.pdb

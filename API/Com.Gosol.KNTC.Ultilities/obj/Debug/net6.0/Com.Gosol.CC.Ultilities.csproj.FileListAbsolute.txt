@@ -1,0 +1,82 @@
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.deps.json
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.CoreCompileInputs.cache
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\refint\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.deps.json
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.deps.json
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.AssemblyReference.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.CoreCompileInputs.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\refint\Com.Gosol.CC.Ultilities.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.deps.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.AssemblyReference.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.csproj.CoreCompileInputs.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\refint\Com.Gosol.CC.Ultilities.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Ultilities\obj\Debug\net6.0\ref\Com.Gosol.CC.Ultilities.dll

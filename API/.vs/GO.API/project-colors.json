@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c318318-6a4f-47be-9378-1bd2e0e849b5": {
+      "ProjectGuid": "2c318318-6a4f-47be-9378-1bd2e0e849b5",
+      "DisplayName": "GO.API",
+      "ColorIndex": 0
+    },
+    "2b6769ff-fece-42ce-99c7-8ca0080b0d37": {
+      "ProjectGuid": "2b6769ff-fece-42ce-99c7-8ca0080b0d37",
+      "DisplayName": "GO.MOD",
+      "ColorIndex": 1
+    },
+    "8f0f89a7-aefb-42b2-84b9-834e55af45ad": {
+      "ProjectGuid": "8f0f89a7-aefb-42b2-84b9-834e55af45ad",
+      "DisplayName": "GO.DAL",
+      "ColorIndex": 2
+    },
+    "0a04618c-8550-43ad-87ef-efaffeac9441": {
+      "ProjectGuid": "0a04618c-8550-43ad-87ef-efaffeac9441",
+      "DisplayName": "GO.BUS",
+      "ColorIndex": 3
+    },
+    "f12554f3-721e-4a71-ae65-7892879f0296": {
+      "ProjectGuid": "f12554f3-721e-4a71-ae65-7892879f0296",
+      "DisplayName": "GO.ULT",
+      "ColorIndex": 4
+    },
+    "8feee0f6-90b5-4d38-9a0d-b2b4de7d3b36": {
+      "ProjectGuid": "8feee0f6-90b5-4d38-9a0d-b2b4de7d3b36",
+      "DisplayName": "GO.Security",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d5a1a0eb-9085-40cd-b14a-13af84433249": {
+      "ProjectGuid": "d5a1a0eb-9085-40cd-b14a-13af84433249",
+      "DisplayName": "Com.Gosol.CC.DAL",
+      "ColorIndex": 6
+    },
+    "653990c5-f904-4ea8-804e-c19ba634f8f2": {
+      "ProjectGuid": "653990c5-f904-4ea8-804e-c19ba634f8f2",
+      "DisplayName": "Com.Gosol.CC.BUS",
+      "ColorIndex": 7
+    },
+    "fbe3f258-ba6d-40b3-8400-1fe1448d9c8e": {
+      "ProjectGuid": "fbe3f258-ba6d-40b3-8400-1fe1448d9c8e",
+      "DisplayName": "Com.Gosol.CC.Models",
+      "ColorIndex": 8
+    },
+    "f1c2426b-1a4f-4dac-83c1-873a41da037f": {
+      "ProjectGuid": "f1c2426b-1a4f-4dac-83c1-873a41da037f",
+      "DisplayName": "Com.Gosol.CC.Ultilities",
+      "ColorIndex": 9
+    },
+    "ea5b2d95-fad9-4468-9c39-5135f2cbd282": {
+      "ProjectGuid": "ea5b2d95-fad9-4468-9c39-5135f2cbd282",
+      "DisplayName": "Com.Gosol.CC.Security",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

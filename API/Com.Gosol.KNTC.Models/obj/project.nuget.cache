@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1cHDnbPsG86UBBv5IgLQ/V0K/1KlnLPcs+i4wLggzoUwVpE5emYCMjmwUq4Kqtora6npk7vx8OKMrFXTetD5w==",
+  "success": true,
+  "projectFilePath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\Com.Gosol.KNTC.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nuica\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\nuica\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\nuica\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

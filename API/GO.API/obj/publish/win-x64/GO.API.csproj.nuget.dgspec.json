@@ -1,0 +1,495 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\GO.API\\GO.API.csproj": {}
+  },
+  "projects": {
+    "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.BUS\\Com.Gosol.CC.BUS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.BUS\\Com.Gosol.CC.BUS.csproj",
+        "projectName": "Com.Gosol.CC.BUS",
+        "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.BUS\\Com.Gosol.CC.BUS.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.BUS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.DAL\\Com.Gosol.CC.DAL.csproj": {
+                "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.DAL\\Com.Gosol.CC.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.DAL\\Com.Gosol.CC.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.DAL\\Com.Gosol.CC.DAL.csproj",
+        "projectName": "Com.Gosol.CC.DAL",
+        "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.DAL\\Com.Gosol.CC.DAL.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Models\\Com.Gosol.CC.Models.csproj": {
+                "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Models\\Com.Gosol.CC.Models.csproj"
+              },
+              "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Security\\Com.Gosol.CC.Security.csproj": {
+                "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Security\\Com.Gosol.CC.Security.csproj"
+              },
+              "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Ultilities\\Com.Gosol.CC.Ultilities.csproj": {
+                "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Ultilities\\Com.Gosol.CC.Ultilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.2, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.60.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.final, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Models\\Com.Gosol.CC.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Models\\Com.Gosol.CC.Models.csproj",
+        "projectName": "Com.Gosol.CC.Models",
+        "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Models\\Com.Gosol.CC.Models.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Security\\Com.Gosol.CC.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Security\\Com.Gosol.CC.Security.csproj",
+        "projectName": "Com.Gosol.CC.Security",
+        "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Security\\Com.Gosol.CC.Security.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Security\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Ultilities\\Com.Gosol.CC.Ultilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Ultilities\\Com.Gosol.CC.Ultilities.csproj",
+        "projectName": "Com.Gosol.CC.Ultilities",
+        "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Ultilities\\Com.Gosol.CC.Ultilities.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.Ultilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.60.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\GO.API\\GO.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\GO.API\\GO.API.csproj",
+        "projectName": "GO.API",
+        "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\GO.API\\GO.API.csproj",
+        "packagesPath": "C:\\Users\\TieuPhong\\.nuget\\packages\\",
+        "outputPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\GO.API\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TieuPhong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.BUS\\Com.Gosol.CC.BUS.csproj": {
+                "projectPath": "D:\\GoSol\\1. DA\\IDoctor\\SoureCode\\IDICS\\Com.Gosol.CC.BUS\\Com.Gosol.CC.BUS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

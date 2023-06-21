@@ -1,0 +1,83 @@
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.deps.json
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\bin\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfoInputs.cache
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfo.cs
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.CoreCompileInputs.cache
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\obj\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\2. PTPM\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\bin\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\obj\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\bin\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\obj\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\refint\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.deps.json
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfo.cs
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.deps.json
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.AssemblyReference.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfoInputs.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfo.cs
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.CoreCompileInputs.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\refint\Com.Gosol.CC.Models.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\Com.Gosol.CC.Models\obj\Debug\net6.0\ref\Com.Gosol.CC.Models.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.deps.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.AssemblyReference.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfoInputs.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.AssemblyInfo.cs
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.csproj.CoreCompileInputs.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\refint\Com.Gosol.CC.Models.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\Com.Gosol.CC.Models\obj\Debug\net6.0\ref\Com.Gosol.CC.Models.dll

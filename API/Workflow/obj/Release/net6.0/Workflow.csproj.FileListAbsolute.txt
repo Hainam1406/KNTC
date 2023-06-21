@@ -1,0 +1,17 @@
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\Workflow.csproj.AssemblyReference.cache
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\Workflow.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\Workflow.AssemblyInfoInputs.cache
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\Workflow.AssemblyInfo.cs
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\Workflow.csproj.CoreCompileInputs.cache
+E:\Works\Intern\API\Workflow\bin\Release\net6.0\Workflow.deps.json
+E:\Works\Intern\API\Workflow\bin\Release\net6.0\Workflow.dll
+E:\Works\Intern\API\Workflow\bin\Release\net6.0\Workflow.pdb
+E:\Works\Intern\API\Workflow\bin\Release\net6.0\Com.Gosol.KNTC.Models.dll
+E:\Works\Intern\API\Workflow\bin\Release\net6.0\Com.Gosol.KNTC.Ultilities.dll
+E:\Works\Intern\API\Workflow\bin\Release\net6.0\Com.Gosol.KNTC.Ultilities.pdb
+E:\Works\Intern\API\Workflow\bin\Release\net6.0\Com.Gosol.KNTC.Models.pdb
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\Workflow.csproj.CopyComplete
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\Workflow.dll
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\refint\Workflow.dll
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\Workflow.pdb
+E:\Works\Intern\API\Workflow\obj\Release\net6.0\ref\Workflow.dll

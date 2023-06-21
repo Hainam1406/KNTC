@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="QuanLy\**" />
+    <EmbeddedResource Remove="QuanLy\**" />
+    <None Remove="QuanLy\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Com.Gosol.KNTC.DAL\Com.Gosol.KNTC.DAL.csproj" />
+    <ProjectReference Include="..\Workflow\Workflow.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="BaoCao\" />
+    <Folder Include="TiepDan\" />
+  </ItemGroup>
+
+</Project>

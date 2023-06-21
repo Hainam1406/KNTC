@@ -1,0 +1,728 @@
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\appsettings.Development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\appsettings.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.API.exe
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.API.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.BUS.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.DAL.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.MOD.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.ULT.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.BUS.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.DAL.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.MOD.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\bin\Debug\net6.0\GO.ULT.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GO.API\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\appsettings.Development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\appsettings.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\GO.API.exe
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\GO.API.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\AutoMapper.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Castle.Core.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\EPPlus.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\ExcelDataReader.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Grpc.Core.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Pomelo.JsonObject.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\RestSharp.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\GOSOL.API\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\appsettings.Development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\appsettings.json
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\GO.API.exe
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\GO.API.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\AutoMapper.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Castle.Core.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\EPPlus.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\ExcelDataReader.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Grpc.Core.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Pomelo.JsonObject.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\RestSharp.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+D:\GoSol\1. DA\IDoctor\SoureCode\PROJECT.API\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\appsettings.Development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\appsettings.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.exe
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.deps.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\AutoMapper.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Castle.Core.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\EPPlus.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ExcelDataReader.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Grpc.Core.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Pomelo.JsonObject.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\RestSharp.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+D:\GoSol\1. DA\IDoctor\SoureCode\IDICS\GO.API\obj\Debug\net6.0\refint\GO.API.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\appsettings.Development.json
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\appsettings.json
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.exe
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.deps.json
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\AutoMapper.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Castle.Core.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\EPPlus.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ExcelDataReader.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Grpc.Core.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Pomelo.JsonObject.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\RestSharp.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\ref\GO.API.dll
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.pdb
+D:\GoSol\1. DA\Idics\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\appsettings.Development.json
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\appsettings.json
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.exe
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.deps.json
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\GO.API.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\AutoMapper.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Castle.Core.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\EPPlus.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ExcelDataReader.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Grpc.Core.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Pomelo.JsonObject.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\RestSharp.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Gosol.Manager.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.BUS.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.DAL.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Models.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Security.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\bin\Debug\net6.0\Com.Gosol.CC.Ultilities.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\refint\GO.API.dll
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.pdb
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+D:\SoureCode\IDICS\SoureCode\IDICS\GO.API\obj\Debug\net6.0\ref\GO.API.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\appsettings.Development.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\appsettings.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.exe
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.deps.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\AutoMapper.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Castle.Core.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\EPPlus.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\ExcelDataReader.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Grpc.Core.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\MySqlConnector.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Pomelo.JsonObject.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\RestSharp.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.BUS.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.DAL.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Models.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Security.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Ultilities.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.BUS.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.DAL.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Models.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Security.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Ultilities.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\refint\GO.API.dll
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.pdb
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+D:\SoureCode\KNTC_NEW\SourceCode\API\GO.API\obj\Debug\net6.0\ref\GO.API.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\appsettings.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.exe
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.deps.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\EPPlus.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Grpc.Core.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Pomelo.JsonObject.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\RestSharp.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.BUS.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.DAL.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Models.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Security.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Ultilities.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.BUS.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.DAL.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Models.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Security.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Ultilities.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\refint\GO.API.dll
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.pdb
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+C:\Users\nuica\OneDrive\Desktop\KNTC_V2\SourceCode\API\GO.API\obj\Debug\net6.0\ref\GO.API.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\appsettings.Development.json
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\appsettings.json
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.exe
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.deps.json
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.runtimeconfig.json
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\GO.API.pdb
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\AutoMapper.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Castle.Core.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\EPPlus.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\ExcelDataReader.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Spire.Doc.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Spire.Pdf.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\GroupDocs.Viewer.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Grpc.Core.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Grpc.Core.Api.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\MySqlConnector.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Pomelo.JsonObject.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\RestSharp.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\SkiaSharp.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x64.so
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\linux\native\libgrpc_csharp_ext.x86.so
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x64.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\native\grpc_csharp_ext.x86.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.BUS.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.DAL.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Models.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Security.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Ultilities.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.BUS.pdb
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.DAL.pdb
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Models.pdb
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Security.pdb
+E:\Works\KNTC_v2\SourceCode\API\GO.API\bin\Debug\net6.0\Com.Gosol.KNTC.Ultilities.pdb
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.AssemblyReference.cache
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfoInputs.cache
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.AssemblyInfo.cs
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.CoreCompileInputs.cache
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\scopedcss\bundle\GO.API.styles.css
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.csproj.CopyComplete
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\refint\GO.API.dll
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.pdb
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\GO.API.genruntimeconfig.cache
+E:\Works\KNTC_v2\SourceCode\API\GO.API\obj\Debug\net6.0\ref\GO.API.dll

@@ -1,0 +1,17 @@
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.deps.json
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.csprojAssemblyReference.cache
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+E:\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.deps.json
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\bin\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.csprojAssemblyReference.cache
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.AssemblyInfoInputs.cache
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.AssemblyInfo.cs
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.csproj.CoreCompileInputs.cache
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.dll
+D:\GoSol\PTPM\PM2021\ChamCong\Server\Com.Gosol.CC\Com.Gosol.CC.Ultilities\obj\Release\netcoreapp3.0\Com.Gosol.CC.Ultilities.pdb

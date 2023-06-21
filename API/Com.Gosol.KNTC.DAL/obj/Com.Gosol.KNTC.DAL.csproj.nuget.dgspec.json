@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.DAL\\Com.Gosol.KNTC.DAL.csproj": {}
+  },
+  "projects": {
+    "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.DAL\\Com.Gosol.KNTC.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.DAL\\Com.Gosol.KNTC.DAL.csproj",
+        "projectName": "Com.Gosol.KNTC.DAL",
+        "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.DAL\\Com.Gosol.KNTC.DAL.csproj",
+        "packagesPath": "C:\\Users\\nuica\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nuica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\Com.Gosol.KNTC.Models.csproj": {
+                "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\Com.Gosol.KNTC.Models.csproj"
+              },
+              "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Security\\Com.Gosol.KNTC.Security.csproj": {
+                "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Security\\Com.Gosol.KNTC.Security.csproj"
+              },
+              "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Ultilities\\Com.Gosol.KNTC.Ultilities.csproj": {
+                "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Ultilities\\Com.Gosol.KNTC.Ultilities.csproj"
+              },
+              "E:\\Works\\Intern\\API\\Workflow\\Workflow.csproj": {
+                "projectPath": "E:\\Works\\Intern\\API\\Workflow\\Workflow.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.2, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "FreeSpire.Doc": {
+              "target": "Package",
+              "version": "[10.8.0, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.Office.Interop.Word": {
+              "target": "Package",
+              "version": "[15.0.4797.1004, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.60.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.0.0-rc1.final, )"
+            },
+            "SharpZipLib": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\Com.Gosol.KNTC.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\Com.Gosol.KNTC.Models.csproj",
+        "projectName": "Com.Gosol.KNTC.Models",
+        "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\Com.Gosol.KNTC.Models.csproj",
+        "packagesPath": "C:\\Users\\nuica\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nuica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Security\\Com.Gosol.KNTC.Security.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Security\\Com.Gosol.KNTC.Security.csproj",
+        "projectName": "Com.Gosol.KNTC.Security",
+        "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Security\\Com.Gosol.KNTC.Security.csproj",
+        "packagesPath": "C:\\Users\\nuica\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Security\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nuica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Ultilities\\Com.Gosol.KNTC.Ultilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Ultilities\\Com.Gosol.KNTC.Ultilities.csproj",
+        "projectName": "Com.Gosol.KNTC.Ultilities",
+        "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Ultilities\\Com.Gosol.KNTC.Ultilities.csproj",
+        "packagesPath": "C:\\Users\\nuica\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Ultilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nuica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\Com.Gosol.KNTC.Models.csproj": {
+                "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Models\\Com.Gosol.KNTC.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[0.60.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Works\\Intern\\API\\Workflow\\Workflow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Works\\Intern\\API\\Workflow\\Workflow.csproj",
+        "projectName": "Workflow",
+        "projectPath": "E:\\Works\\Intern\\API\\Workflow\\Workflow.csproj",
+        "packagesPath": "C:\\Users\\nuica\\.nuget\\packages\\",
+        "outputPath": "E:\\Works\\Intern\\API\\Workflow\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nuica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Ultilities\\Com.Gosol.KNTC.Ultilities.csproj": {
+                "projectPath": "E:\\Works\\Intern\\API\\Com.Gosol.KNTC.Ultilities\\Com.Gosol.KNTC.Ultilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

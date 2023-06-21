@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\GoSol\1. DA\IDoctor\SoureCode\Publish</_PublishTargetUrl>
+    <History>True|2023-05-23T06:53:26.4406895Z;True|2023-05-23T13:24:35.8003779+07:00;True|2023-05-23T11:00:09.2983483+07:00;True|2023-05-22T18:05:00.9940397+07:00;True|2022-07-07T21:36:28.4827629+07:00;False|2022-07-07T21:35:09.8625388+07:00;True|2022-07-07T11:12:07.4148113+07:00;True|2022-07-07T11:11:38.0005399+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
